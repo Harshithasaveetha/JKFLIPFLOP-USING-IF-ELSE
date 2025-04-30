@@ -70,3 +70,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![439067416-ad9b4501-38d9-41b5-83e1-996be3e68eee](https://github.com/user-attachments/assets/618653fc-a91f-4370-b697-19485fa96914)
 
 **RESULTS**
+Thus the given JK flipflops are implemented using and their operations are verified using Verilog programming.
